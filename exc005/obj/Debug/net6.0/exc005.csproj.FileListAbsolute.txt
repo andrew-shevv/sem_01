@@ -1,0 +1,15 @@
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\bin\Debug\net6.0\exc005.exe
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\bin\Debug\net6.0\exc005.deps.json
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\bin\Debug\net6.0\exc005.runtimeconfig.json
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\bin\Debug\net6.0\exc005.dll
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\bin\Debug\net6.0\exc005.pdb
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.csproj.AssemblyReference.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.dll
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\refint\exc005.dll
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.pdb
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\exc005.genruntimeconfig.cache
+C:\Users\Andre\Desktop\Учеба\IT\git.edu\sem_series_03\sem_01_04.08\sem_01\exc005\obj\Debug\net6.0\ref\exc005.dll
