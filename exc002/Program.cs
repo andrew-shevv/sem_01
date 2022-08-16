@@ -3,7 +3,9 @@
 // по заданному номеру.
 
 Console.WriteLine("Input number of the weekday: ");
+
 string? day = Console.ReadLine();
+
 if (day == "1") Console.WriteLine("Monday");
 else if (day == "2") Console.WriteLine("Tuesday");
 else if (day == "3") Console.WriteLine("Wednesday");
